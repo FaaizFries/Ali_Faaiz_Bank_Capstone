@@ -28,13 +28,13 @@
   form input{
     width:100%;
     background-color: transparent;
-    color:#ffffff;
+    color:#000000;
     border: 2px solid #30313d;
     padding: 2px 5px;
     border-radius: 5px;
   }
   form input[type="datetime-local"]{
-    color: #777777;
+    color: #000000;
   }
   form div.basic{
     display: flex;
@@ -66,7 +66,7 @@
   }
   div.transaction div.description{
     font-size: .7rem;
-    color:#888;
+    color:#000000;
   }
   div.right{
     text-align: right;
@@ -80,7 +80,7 @@
   }
   div.transaction div.datetime{
     font-size: .7rem;
-    color: #888;
+    color: #000000;
   }
   
   .green {
